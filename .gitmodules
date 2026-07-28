@@ -18,3 +18,7 @@
 	path = Proyectos/SITMF-PTIA
 	url = https://github.com/JuanGuayazanC/SITMF-PTIA.git
 	branch = main
+[submodule "Parciales/Parcial-Arboles-de-Decision-PTIA"]
+	path = Parciales/Parcial-Arboles-de-Decision-PTIA
+	url = https://github.com/JuanGuayazanC/Parcial-Arboles-de-Decision-PTIA.git
+	branch = main

@@ -13,8 +13,10 @@ Principios-y-Tecnolog-as-IA/
 │   ├── Aprendizaje-PTIA/
 │   ├── Minimax-Poda-Alfa-Beta-PTIA/
 │   └── Motor-de-Inferencia-Sistema-Basado-en-Reglas-PTIA/
-└── Proyectos/
-    └── SITMF-PTIA/
+├── Proyectos/
+│   └── SITMF-PTIA/
+└── Parciales/
+    └── Parcial-Arboles-de-Decision-PTIA/
 ```
 
 ## Temas del curso
@@ -33,6 +35,7 @@ El curso se organiza en tres tercios (30%/30%/40%) y recorre los principios fund
 - Los laboratorios de este curso se desarrollaron en pareja con SERGIO ALEJANDRO IDARRAGA TORRES.
 - `Minimax-Poda-Alfa-Beta-PTIA` y `Motor-de-Inferencia-Sistema-Basado-en-Reglas-PTIA` provienen del mismo laboratorio original de "Búsqueda adversaria" (labs 3/4 y 4/4 del curso), separados aquí en dos repositorios porque cada uno corresponde a una entrega y un tema distintos.
 - `SITMF-PTIA` es el proyecto final del curso: un clasificador visual de tendencias de mercado financiero basado en IA y visión por computador.
+- `Parcial-Arboles-de-Decision-PTIA` es el examen parcial del segundo tercio, que incluye reflexión sobre el propio proyecto SITMF.
 
 ## Herramientas
 
