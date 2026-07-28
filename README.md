@@ -19,13 +19,14 @@ Principios-y-Tecnolog-as-IA/
 
 ## Temas del curso
 
-El curso recorre los principios fundamentales de la inteligencia artificial, desde el aprendizaje automático hasta la IA simbólica y la búsqueda adversaria:
+El curso se organiza en tres tercios (30%/30%/40%) y recorre los principios fundamentales de la inteligencia artificial, desde el aprendizaje automático hasta la IA simbólica y la búsqueda adversaria:
 
-- **Redes neuronales**: fundamentos de aprendizaje profundo y entrenamiento de modelos.
-- **Aprendizaje automático**: árboles de decisión y otras técnicas de aprendizaje supervisado.
+- **Aprendizaje automático supervisado**: árboles de decisión, entropía e índice Gini, ganancia de información, sobreajuste y generalización, poda (pre-pruning), y métodos de ensamble (Random Forest, Gradient Boosting).
+- **Redes neuronales**: arquitectura de un perceptrón, fundamentos de aprendizaje profundo y entrenamiento de modelos; redes neuronales convolucionales (CNN) aplicadas a visión por computador (capas convolucionales, MaxPooling, softmax).
 - **Búsqueda adversaria**: teoría de juegos para dos jugadores, algoritmo Minimax y poda alfa-beta.
 - **IA simbólica**: sistemas basados en reglas, bases de conocimiento (hechos y reglas), motores de inferencia con razonamiento hacia adelante y hacia atrás, y explicación de conclusiones.
-- **Visión por computador aplicada**: clasificación de imágenes para tareas del mundo real (proyecto final: clasificación de tendencias de mercado a partir de gráficos bursátiles).
+- **Visión por computador aplicada**: clasificación de imágenes para tareas del mundo real (proyecto final: clasificación de tendencias de mercado bursátil a partir de patrones de velas japonesas).
+- **Consideraciones éticas de la IA**: sesgo y privacidad en el diseño de soluciones de aprendizaje automático.
 
 ## Cosas a tener en cuenta
 
