@@ -1,0 +1,20 @@
+[submodule "Laboratorios/Redes-neuronales-PTIA"]
+	path = Laboratorios/Redes-neuronales-PTIA
+	url = https://github.com/JuanGuayazanC/Redes-neuronales-PTIA.git
+	branch = main
+[submodule "Laboratorios/Aprendizaje-PTIA"]
+	path = Laboratorios/Aprendizaje-PTIA
+	url = https://github.com/JuanGuayazanC/Aprendizaje-PTIA.git
+	branch = main
+[submodule "Laboratorios/Minimax-Poda-Alfa-Beta-PTIA"]
+	path = Laboratorios/Minimax-Poda-Alfa-Beta-PTIA
+	url = https://github.com/JuanGuayazanC/Minimax-Poda-Alfa-Beta-PTIA.git
+	branch = main
+[submodule "Laboratorios/Motor-de-Inferencia-Sistema-Basado-en-Reglas-PTIA"]
+	path = Laboratorios/Motor-de-Inferencia-Sistema-Basado-en-Reglas-PTIA
+	url = https://github.com/JuanGuayazanC/Motor-de-Inferencia-Sistema-Basado-en-Reglas-PTIA.git
+	branch = main
+[submodule "Proyectos/SITMF-PTIA"]
+	path = Proyectos/SITMF-PTIA
+	url = https://github.com/JuanGuayazanC/SITMF-PTIA.git
+	branch = main
