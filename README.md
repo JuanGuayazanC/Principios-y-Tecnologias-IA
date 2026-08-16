@@ -7,7 +7,7 @@ Cada submódulo es un repositorio independiente con su propio historial de commi
 ## Estructura del proyecto
 
 ```
-Principios-y-Tecnolog-as-IA/
+Principios-y-Tecnologias-IA/
 ├── Laboratorios/
 │   ├── Redes-neuronales-PTIA/
 │   ├── Aprendizaje-PTIA/
@@ -43,7 +43,7 @@ El curso se organiza en tres tercios (30%/30%/40%) y recorre los principios fund
 ## Cómo clonar
 
 ```bash
-git clone --recurse-submodules https://github.com/JuanGuayazanC/Principios-y-Tecnolog-as-IA.git
+git clone --recurse-submodules https://github.com/JuanGuayazanC/Principios-y-Tecnologias-IA.git
 ```
 
 Si ya clonaste el repositorio sin submódulos:
