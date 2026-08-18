@@ -40,6 +40,10 @@ El curso recorre los principios fundamentales de la inteligencia artificial, des
 - Redes neuronales / frameworks de deep learning
 - Visión por computador
 
+## Profesor
+
+Juan David Murillo Giraldo.
+
 ## Cómo usar este repositorio
 
 Este repositorio no contiene código directamente: es una colección de repositorios independientes (laboratorios y proyecto final), organizados por carpetas. Cada carpeta es un submódulo de git que apunta al repositorio real de esa actividad.
